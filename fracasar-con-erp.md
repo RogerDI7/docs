@@ -11,7 +11,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/Default.aspx)**  : [London Ambulance Service Software Failure](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo)
 
 **1993**  
-
+* **SAP R/3 y [Manco Group](http://www.manco.ca/)**  : [Supply‐chain re‐engineering using enterprise resource planning (ERP) systems: an analysis of a SAP R/3 implementation case](http://www.emeraldinsight.com/doi/full/10.1108/09600030010326064) (Fuente: Rogelio Delgado)
 **1994**
 
 * **BAE y el [aeropuerto internacional de Denver](http://flydenver.com/)** : [Case Study – Denver International Airport Baggage Handling System – An ](http://calleam.com/WTPF/wp-content/uploads/articles/DIABaggage.pdf)[illustration of ineffectual decision making](http://calleam.com/WTPF/wp-content/uploads/articles/DIABaggage.pdf) (Fuente: Daniel Pardo)
